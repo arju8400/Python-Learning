@@ -11,7 +11,7 @@ pygame.display.set_caption("broken_heart")
 clock = pygame.time.Clock()
 font = pygame.font.SysFont("Consolas", 13)
 
-TEXT = "LOVE YOU"
+TEXT = "Love "
 HEART_COLOR = (255, 77, 109)
 BG_COLOR = (5, 5, 5)
 
